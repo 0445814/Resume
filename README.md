@@ -7,23 +7,24 @@
 
 ## 技能
 
-### HTML / CSS
+### Vue.js
 
-- 了解基礎 HTML 語意，以符合語意標籤建置 Web Layout。
-- 使用 Sass 撰寫 CSS3。
-- 使用基礎 Bootstrap 4 建立網頁排版。
+- 使用 Vue Cli 3 開發
+- Vue router 建置路由
+- Vuex 管理資料狀態
 
 ### JavaScript
 
-- 了解 JavaScript、ES6 撰寫。
-- 使用 Vue Cli 3 開發。
-- 基礎了解 Node.js。
-- 基礎了解 TypeScript。
-- ESLint 風格規範。
+- 瞭解 JavaScript 語法
+- 主要以 ES6 撰寫
+- AJAX / API 串接
+- ESLint
 
-### 其他
+### Web Layout
 
-- Git 基礎觀念與操作。
+- 瞭解 HTML 語意，以符合語意標籤建置 Web Layout
+- 使用 Sass 撰寫 CSS3
+- Bootstrap 4 建立 RWD 網頁排版
 
 ## 作品集
 
@@ -32,11 +33,12 @@
 六角學院 Vue.js SPA 電商網站。
 
 [Demo](https://0445814.github.io/V-Headphone/#/) / [GitHub](https://github.com/0445814/V-Headphone)
-- 製作時間: 1 個月。
+
 - 應用技術:
-  + Vue Cli 3 腳手架。
-  + Vue 第三方插件。
+  + Vue Cli 3
+  + Vue-router、Vuex
   + 串接 API。
+  + Bootstrap 4
 - 前台: 
   + 商品分類、展示。
   + 購物車、結帳。
@@ -45,35 +47,38 @@
   + 商品新增、刪除、修改。
   + 優惠券設置。
 
+![Home page](https://i.imgur.com/feRUgeK.png)
+
+![Dashboard](https://i.imgur.com/pqkaSKG.png)
+
 ### 口罩地圖
 
-藥局口罩數量查詢地圖 (開發中)。
+藥局即時口罩數量查詢地圖
 
 [Demo](https://0445814.github.io/mask-map/) / [GitHub](https://github.com/0445814/mask-map)
 
-- 製作時間: 。
 - 應用技術: 
-  + Vue
+  + Vue Cli 3
   + leaflet
   + 串接 API
+  + Bootstrap 4
 
-### 甜點電商
+## 教育與工作經歷
 
-六角學院 Bootstrap 切版練習。
+- 學習前端相關知識與技能  2019/5 ~ 
+  + 利用線上課程自修學習前端，包含 HTML、CSS、JS，並使用 Vue.js 完成 V-Headphone SPA 網站與口罩地圖。
 
-[Demo](https://0445814.github.io/BS4-Final-Project/) / [GitHub](https://github.com/0445814/BS4-Final-Project)
+- 國富浩華聯合會計師事務所 - 助理審計員  2018/11 ~ 2019/4
+  + 對客戶公司財務執行查核工作。
+  + 根據查核事實編製工作底稿。
+  + 撰寫財務與稅務報告。
 
-- 製作時間: 約 2 周。
-- 應用技術:
-  + 根據課程提供之設計稿，使用 Bootstrap 4 進行製作。
+- 京都外國語大學 - 交換留學生  2017/3 ~ 2017/7
+  + 於日本京都外國語大學留學半年，主要學習日語
 
-## 工作經歷
+- 國立高雄科技大學 - 會計暨資訊研究所  2015/9 ~ 2018/5
 
-國富浩華聯合會計師事務所 - 助理審計員  2018/11 ~ 2019/4 (半年)
+- 義守大學 - 會計學系 2011/9 ~ 2015/6
 
-- 對客戶公司財務執行查核工作。
-- 根據查核事實編製工作底稿。
-- 撰寫財務與稅務報告。
 
-[CakeResume](https://www.cakeresume.com/s--8PmgyOkduauTGAlF5nuhaw--/ken-chang-673087)
-
+詳細請參考 [CakeResume 線上履歷](https://www.cakeresume.com/ken-chang-673087)

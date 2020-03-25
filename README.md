@@ -1,7 +1,7 @@
 # 張家銘 (Ken)
-
-- 教育: 國立高雄科技大學-會計資訊系研究所
-- 電話: 0988711331
+- 希望職位: Junior 前端工程師
+- 工作地點: 台北、新北皆可。
+- 聯絡: 09-88711331
 - 信箱: 0445814@nkust.edu.tw
 - 住址: 高雄市楠梓區
 
@@ -26,6 +26,11 @@
 - 使用 Sass 撰寫 CSS3
 - Bootstrap 4 建立 RWD 網頁排版
 
+### Others
+
+- TOEIC 810
+- JLPT N2
+
 ## 作品集
 
 ### V-Headphone
@@ -49,6 +54,8 @@
 
 ![Home page](https://i.imgur.com/feRUgeK.png)
 
+![Product page](https://i.imgur.com/98f9jc1.png)
+
 ![Dashboard](https://i.imgur.com/pqkaSKG.png)
 
 ### 口罩地圖
@@ -68,7 +75,7 @@
 ## 教育與工作經歷
 
 - 學習前端相關知識與技能  2019/5 ~ 
-  + 利用線上課程自修學習前端，包含 HTML、CSS、JS，並使用 Vue.js 完成 V-Headphone SPA 網站與口罩地圖。
+  + 利用線上課程自修學習前端，包含 HTML、CSS、JS，並使用 Vue.js 完成 V-Headphone SPA 電商網站與口罩地圖。
 
 - 國富浩華聯合會計師事務所 - 助理審計員  2018/11 ~ 2019/4
   + 對客戶公司財務執行查核工作。
